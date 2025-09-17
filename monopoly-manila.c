@@ -5,7 +5,7 @@ the functions and their respective algorithms and corresponding code by
 myself.  The program was run, tested, and debugged by my own efforts.  I  
 further certify that I have not copied in part or whole or otherwise  
 plagiarized the work of other students and/or persons. 
-<Patricia Marie Elizabeth S. Naui>
+<Patricia Naui>
 ****************************************************************************/
 
 #include <stdio.h>
